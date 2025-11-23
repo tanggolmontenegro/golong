@@ -1,0 +1,27 @@
+{
+  "name": "tire-inventory-management",
+  "version": "1.0.0",
+  "description": "Tire Inventory Management System - PHP application with npm support",
+  "main": "server-node.js",
+  "scripts": {
+    "start": "node server-node.js",
+    "dev": "node server-node.js",
+    "php": "php -S localhost:8000",
+    "install-deps": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inventory",
+    "tire",
+    "management",
+    "php"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
+
