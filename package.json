@@ -8,6 +8,10 @@
     "dev": "node server-node.js",
     "php": "php -S localhost:8000",
     "install-deps": "npm install",
+    "install-php": "./install-php.sh",
+    "check-php": "php -v || echo 'PHP not installed. Run: npm run install-php'",
+    "backup": "./backup-data.sh",
+    "restore": "./restore-data.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
