@@ -1,0 +1,222 @@
+[
+    {
+        "id": "inv_001",
+        "model": "GErami",
+        "size": "185/65R15",
+        "brand": "Bridgestone",
+        "warehouse": "main",
+        "quantity": 45,
+        "price": 3500,
+        "minStock": 5,
+        "createdAt": "2024-01-15T08:30:00+08:00"
+    },
+    {
+        "id": "inv_002",
+        "model": "Potenza",
+        "size": "205/55R16",
+        "brand": "Bridgestone",
+        "warehouse": "main",
+        "quantity": 3,
+        "price": 4200,
+        "minStock": 5,
+        "createdAt": "2024-01-20T10:15:00+08:00"
+    },
+    {
+        "id": "inv_003",
+        "model": "Dueler",
+        "size": "225/70R16",
+        "brand": "Bridgestone",
+        "warehouse": "main",
+        "quantity": 28,
+        "price": 4800,
+        "minStock": 5,
+        "createdAt": "2024-01-25T14:20:00+08:00"
+    },
+    {
+        "id": "inv_004",
+        "model": "Pilot Sport",
+        "size": "215/45R17",
+        "brand": "Michelin",
+        "warehouse": "main",
+        "quantity": 2,
+        "price": 5500,
+        "minStock": 5,
+        "createdAt": "2024-02-01T09:45:00+08:00"
+    },
+    {
+        "id": "inv_005",
+        "model": "Energy Saver",
+        "size": "195/60R15",
+        "brand": "Michelin",
+        "warehouse": "main",
+        "quantity": 67,
+        "price": 3200,
+        "minStock": 5,
+        "createdAt": "2024-02-05T11:30:00+08:00"
+    },
+    {
+        "id": "inv_006",
+        "model": "Latitude Cross",
+        "size": "235/65R17",
+        "brand": "Michelin",
+        "warehouse": "main",
+        "quantity": 1,
+        "price": 6200,
+        "minStock": 5,
+        "createdAt": "2024-02-10T16:00:00+08:00"
+    },
+    {
+        "id": "inv_007",
+        "model": "Eagle F1",
+        "size": "225/40R18",
+        "brand": "Goodyear",
+        "warehouse": "main",
+        "quantity": 4,
+        "price": 4500,
+        "minStock": 5,
+        "createdAt": "2024-02-15T13:15:00+08:00"
+    },
+    {
+        "id": "inv_008",
+        "model": "Assurance",
+        "size": "205/60R16",
+        "brand": "Goodyear",
+        "warehouse": "main",
+        "quantity": 52,
+        "price": 3800,
+        "minStock": 5,
+        "createdAt": "2024-02-20T07:45:00+08:00"
+    },
+    {
+        "id": "inv_009",
+        "model": "Wrangler",
+        "size": "245/75R16",
+        "brand": "Goodyear",
+        "warehouse": "main",
+        "quantity": 8,
+        "price": 5200,
+        "minStock": 5,
+        "createdAt": "2024-02-25T15:30:00+08:00"
+    },
+    {
+        "id": "inv_010",
+        "model": "GErami",
+        "size": "175/70R14",
+        "brand": "Bridgestone",
+        "warehouse": "branch1",
+        "quantity": 23,
+        "price": 2800,
+        "minStock": 5,
+        "createdAt": "2024-03-01T10:00:00+08:00"
+    },
+    {
+        "id": "inv_011",
+        "model": "Potenza",
+        "size": "195/50R15",
+        "brand": "Bridgestone",
+        "warehouse": "branch1",
+        "quantity": 0,
+        "price": 3600,
+        "minStock": 5,
+        "createdAt": "2024-03-05T12:30:00+08:00"
+    },
+    {
+        "id": "inv_012",
+        "model": "Energy Saver",
+        "size": "185/65R15",
+        "brand": "Michelin",
+        "warehouse": "branch1",
+        "quantity": 6,
+        "price": 3100,
+        "minStock": 5,
+        "createdAt": "2024-03-10T14:45:00+08:00"
+    },
+    {
+        "id": "inv_013",
+        "model": "Pilot Sport",
+        "size": "225/45R17",
+        "brand": "Michelin",
+        "warehouse": "branch1",
+        "quantity": 15,
+        "price": 5400,
+        "minStock": 5,
+        "createdAt": "2024-03-15T09:20:00+08:00"
+    },
+    {
+        "id": "inv_014",
+        "model": "Assurance",
+        "size": "195/65R15",
+        "brand": "Goodyear",
+        "warehouse": "branch1",
+        "quantity": 2,
+        "price": 3500,
+        "minStock": 5,
+        "createdAt": "2024-03-20T11:15:00+08:00"
+    },
+    {
+        "id": "inv_015",
+        "model": "Eagle F1",
+        "size": "215/40R17",
+        "brand": "Goodyear",
+        "warehouse": "branch1",
+        "quantity": 31,
+        "price": 4200,
+        "minStock": 5,
+        "createdAt": "2024-03-25T16:00:00+08:00"
+    },
+    {
+        "id": "inv_016",
+        "model": "Dueler",
+        "size": "265/70R17",
+        "brand": "Bridgestone",
+        "warehouse": "branch2",
+        "quantity": 7,
+        "price": 5800,
+        "minStock": 5,
+        "createdAt": "2024-04-01T08:30:00+08:00"
+    },
+    {
+        "id": "inv_017",
+        "model": "Latitude Cross",
+        "size": "255/60R18",
+        "brand": "Michelin",
+        "warehouse": "branch2",
+        "quantity": 4,
+        "price": 6500,
+        "minStock": 5,
+        "createdAt": "2024-04-05T13:45:00+08:00"
+    },
+    {
+        "id": "inv_018",
+        "model": "Wrangler",
+        "size": "275/70R18",
+        "brand": "Goodyear",
+        "warehouse": "branch2",
+        "quantity": 12,
+        "price": 5600,
+        "minStock": 5,
+        "createdAt": "2024-04-10T10:20:00+08:00"
+    },
+    {
+        "id": "inv_019",
+        "model": "GErami",
+        "size": "205/55R16",
+        "brand": "Bridgestone",
+        "warehouse": "branch2",
+        "quantity": 0,
+        "price": 3800,
+        "minStock": 5,
+        "createdAt": "2024-04-15T15:10:00+08:00"
+    },
+    {
+        "id": "inv_020",
+        "model": "Energy Saver",
+        "size": "215/60R16",
+        "brand": "Michelin",
+        "warehouse": "branch2",
+        "quantity": 3,
+        "price": 3400,
+        "minStock": 5,
+        "createdAt": "2024-04-20T12:00:00+08:00"
+    }
+]

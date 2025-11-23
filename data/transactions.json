@@ -1,0 +1,92 @@
+[
+    {
+        "id": "txn_68fa12df88abd8.79588203",
+        "type": "inventory_added",
+        "description": "Inventory added: gerami 185\/65\/r15 (Michelin)",
+        "data": {
+            "id": "inv_68fa12df879951.33417399",
+            "model": "gerami",
+            "size": "185\/65\/r15",
+            "brand": "Michelin",
+            "warehouse": "main",
+            "quantity": 10,
+            "price": 5000,
+            "minStock": 5,
+            "createdAt": "2025-10-23T13:34:55+02:00"
+        },
+        "timestamp": "2025-10-23T13:34:55+02:00",
+        "user": "system"
+    },
+    {
+        "id": "txn_68fa131b0cb5a5.08008675",
+        "type": "inventory_added",
+        "description": "Inventory added: gov 185\/65\/r15 (Goodyear)",
+        "data": {
+            "id": "inv_68fa131b0c4537.89294108",
+            "model": "gov",
+            "size": "185\/65\/r15",
+            "brand": "Goodyear",
+            "warehouse": "main",
+            "quantity": 12,
+            "price": 9000,
+            "minStock": 5,
+            "createdAt": "2025-10-23T13:35:55+02:00"
+        },
+        "timestamp": "2025-10-23T13:35:55+02:00",
+        "user": "system"
+    },
+    {
+        "id": "txn_69195390873d74.26439372",
+        "type": "inventory_added",
+        "description": "Inventory added: gerami 185\/65\/r15 (Michelin)",
+        "data": {
+            "id": "inv_69195390846f41.09347400",
+            "model": "gerami",
+            "size": "185\/65\/r15",
+            "brand": "Michelin",
+            "warehouse": "main",
+            "quantity": 6,
+            "price": 1000,
+            "minStock": 5,
+            "createdAt": "2025-11-16T05:31:12+01:00"
+        },
+        "timestamp": "2025-11-16T05:31:12+01:00",
+        "user": "system"
+    },
+    {
+        "id": "txn_691953a379d423.48908314",
+        "type": "inventory_added",
+        "description": "Inventory added: gerami 185\/65\/r15 (Goodyear)",
+        "data": {
+            "id": "inv_691953a3794750.19077951",
+            "model": "gerami",
+            "size": "185\/65\/r15",
+            "brand": "Goodyear",
+            "warehouse": "main",
+            "quantity": 5,
+            "price": 1000,
+            "minStock": 5,
+            "createdAt": "2025-11-16T05:31:31+01:00"
+        },
+        "timestamp": "2025-11-16T05:31:31+01:00",
+        "user": "system"
+    },
+    {
+        "id": "txn_691955c6710970.40782828",
+        "type": "inventory_added",
+        "description": "Inventory added: gerami 185\/65\/r15 (Continental)",
+        "data": {
+            "id": "inv_691955c66a4e80.89585856",
+            "model": "gerami",
+            "size": "185\/65\/r15",
+            "brand": "Continental",
+            "warehouse": "branch1",
+            "quantity": 5,
+            "price": 12121,
+            "minStock": 5,
+            "createdAt": "2025-11-16T05:40:38+01:00"
+        },
+        "timestamp": "2025-11-16T05:40:38+01:00",
+        "user": "system"
+    }
+]

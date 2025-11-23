@@ -1,0 +1,57 @@
+[
+    {
+        "id": "inv_68fa12df879951.33417399",
+        "model": "gerami",
+        "size": "185\/65\/r15",
+        "brand": "Michelin",
+        "warehouse": "main",
+        "quantity": 10,
+        "price": 5000,
+        "minStock": 5,
+        "createdAt": "2025-10-23T13:34:55+02:00"
+    },
+    {
+        "id": "inv_68fa131b0c4537.89294108",
+        "model": "gov",
+        "size": "185\/65\/r15",
+        "brand": "Goodyear",
+        "warehouse": "main",
+        "quantity": 12,
+        "price": 9000,
+        "minStock": 5,
+        "createdAt": "2025-10-23T13:35:55+02:00"
+    },
+    {
+        "id": "inv_69195390846f41.09347400",
+        "model": "gerami",
+        "size": "185\/65\/r15",
+        "brand": "Michelin",
+        "warehouse": "main",
+        "quantity": 6,
+        "price": 1000,
+        "minStock": 5,
+        "createdAt": "2025-11-16T05:31:12+01:00"
+    },
+    {
+        "id": "inv_691953a3794750.19077951",
+        "model": "gerami",
+        "size": "185\/65\/r15",
+        "brand": "Goodyear",
+        "warehouse": "main",
+        "quantity": 5,
+        "price": 1000,
+        "minStock": 5,
+        "createdAt": "2025-11-16T05:31:31+01:00"
+    },
+    {
+        "id": "inv_691955c66a4e80.89585856",
+        "model": "gerami",
+        "size": "185\/65\/r15",
+        "brand": "Continental",
+        "warehouse": "branch1",
+        "quantity": 5,
+        "price": 12121,
+        "minStock": 5,
+        "createdAt": "2025-11-16T05:40:38+01:00"
+    }
+]

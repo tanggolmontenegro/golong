@@ -1,0 +1,29 @@
+[
+    {
+        "id": "main",
+        "name": "Main Warehouse",
+        "address": "Indang, Cavite, Philippines",
+        "manager": "Juan Santos",
+        "contact": "+63 917 123 4567",
+        "capacity": 2000,
+        "status": "active"
+    },
+    {
+        "id": "branch1",
+        "name": "Branch 1 Warehouse",
+        "address": "Tagaytay City, Cavite, Philippines",
+        "manager": "Maria Cruz",
+        "contact": "+63 917 234 5678",
+        "capacity": 800,
+        "status": "active"
+    },
+    {
+        "id": "branch2",
+        "name": "Branch 2 Warehouse",
+        "address": "Dasmarinas City, Cavite, Philippines",
+        "manager": "Pedro Reyes",
+        "contact": "+63 917 345 6789",
+        "capacity": 1200,
+        "status": "active"
+    }
+]
